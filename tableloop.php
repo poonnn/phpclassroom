@@ -3,7 +3,7 @@
   </head>
   <body>
     <table border="1">
-       <?php
+      <?php
         for($i=0;$i<5;$i++){
           echo "<tr>";
           echo "<td>คอลัมน์</td>";
