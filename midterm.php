@@ -35,7 +35,7 @@
   echo "<td bgcolor='#FF6633'>"; 
   echo "ผู้เสียชีวิตรวม";
   echo "</td>";
-  echo "<td bgcolor='#000000'>"; 
+  echo "<td bgcolor='#20B2AA'>"; 
   echo "วันที่อัพเดท";
   echo "</td>";  
   echo "</tr>";
