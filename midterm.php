@@ -43,7 +43,7 @@
   foreach($data as $key=>$val){
     echo "<tr align = 'center'>";
     echo "<tr align = 'center'>";
-    echo "<td bgcolor='#BEBEBE'>"; 
+    echo "<td bgcolor='#FFFF66'>"; 
     echo $key+1;
     echo "</td>"; 
     echo "<td bgcolor='#FFFAFA'>"; 
@@ -67,7 +67,7 @@
     echo "<td bgcolor='#FF6633'>"; 
     echo $val->total_death;
     echo "</td>"; 
-    echo "<td bgcolor='#F0F8FF'>"; 
+    echo "<td bgcolor='#E0FFFF'>"; 
     echo $val->update_date;
     echo "</td>";
     echo "</tr>";
