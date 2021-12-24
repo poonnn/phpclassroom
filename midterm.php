@@ -11,10 +11,10 @@
   echo "</h3>";
   echo"</caption>";
   echo "<tr align = 'center'>";
-  echo "<td bgcolor='#BEBEBE'>"; 
+  echo "<td bgcolor='#FFA600'>"; 
   echo "ลำดับ";
   echo "</td>"; 
-  echo "<td bgcolor='#FFFAFA'>"; 
+  echo "<td bgcolor='#FFDAB9'>"; 
   echo "จังหวัด";
   echo "</td>";
   echo "<td bgcolor='#98FB98'>"; 
@@ -35,7 +35,7 @@
   echo "<td bgcolor='#FF6633'>"; 
   echo "ผู้เสียชีวิตรวม";
   echo "</td>";
-  echo "<td bgcolor='#F0F8FF'>"; 
+  echo "<td bgcolor='#000000'>"; 
   echo "วันที่อัพเดท";
   echo "</td>";  
   echo "</tr>";
