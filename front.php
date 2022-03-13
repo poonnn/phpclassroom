@@ -4,7 +4,7 @@
     <style>
       @font-face{
         font-family: myFont;
-        src: url(shining.woff);
+        src: url(SOV_Digital);
       }
       @font-face{
         font-family: myFont2;
