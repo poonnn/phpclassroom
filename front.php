@@ -4,11 +4,11 @@
     <style>
       @font-face{
         font-family: myFont;
-        src: url(SOV.zip);
+        src: url(SOV.ttf);
       }
       @font-face{
         font-family: myFont2;
-        src: url(SOV.zip);
+        src: url(DM.ttf);
       }
       #font1{
         font-family: myFont;
@@ -20,10 +20,10 @@
   </head>
   <body>
     <div id="font1">
-      <h1>นายยิ่งคุณ รอดทิม เลขที่ 35 ห้อง 5/13</h1>
+      <h1>นายกิตตินันท์ วัฒนะจิตพงศ์ เลขที่ 1 ห้อง 5/13</h1>
     </div>
     <div id="font2">
-      <h1>นายยิ่งคุณ รอดทิม เลขที่ 35 ห้อง 5/13</h1>
+      <h1>นายกิตตินันท์ วัฒนะจิตพงศ์ เลขที่ 1 ห้อง 5/13</h1>
     </div>
   </body>
 </html>
