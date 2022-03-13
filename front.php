@@ -4,7 +4,7 @@
     <style>
       @font-face{
         font-family: myFont;
-        src: url(SOV_Digital);
+        src: url(SOV_Digital.zip);
       }
       @font-face{
         font-family: myFont2;
