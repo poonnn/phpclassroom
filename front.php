@@ -8,7 +8,7 @@
       }
       @font-face{
         font-family: myFont2;
-        src: url(.....);
+        src: url(SOV.zip);
       }
       #font1{
         font-family: myFont;
